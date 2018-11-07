@@ -1,6 +1,7 @@
 # Blueizm-Bot
 
 (TR)
+
 Tamamen Türkçe kullandığım bir Discord Bot, bot kullanmak için bu linki kullanabilirsiniz: www.yakındaeklicem.com
 
 * Komutlar:
