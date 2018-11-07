@@ -21,7 +21,7 @@ A Discord Bot that I am using completely in Turkish, you can use this link to us
 * Commands:
 !sohbetsil <Number> (aliases: !clearchat): Deletes the conversation.
 avatar <@Discord Tag>: Sends the user's discord picture to the chat.
-!ban <User Name> <Cause>: Prohibits the user from the server.
+!ban <User Name> <Reason>: Prohibits the user from the server.
 !kick <User Name> <Reason>: Throws the user from the server.
 Authorized: Shows Authorities
 !math: Math Makes your operations (supports pi number xd (we got pi 3))
