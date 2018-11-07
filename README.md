@@ -4,7 +4,7 @@
 Tamamen Türkçe kullandığım bir Discord Bot, bot kullanmak için bu linki kullanabilirsiniz: www.yakındaeklicem.com
 
 * Komutlar:
-!sohbetsil <Sayı> (*clearchat) : Sohbeti siler.
+!sohbetsil <Sayı> (*clearchat) : Sohbeti siler.\n
 !avatar <@Discord Tag> : Kullanıcının discord resmini chat'e gönderir.
 !ban <Kullanıcı Adı> <Sebep> : Kullanıcıyı sunucudan yasaklar.
 !kick <Kullanıcı Adı> <Sebep> : Kullanıcıyı sunucudan atar.
