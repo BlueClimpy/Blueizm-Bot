@@ -26,14 +26,13 @@ public class BotMain {
     public static JDA discordJDA;
 
     public static long timeStart = 0;
-    public static List<String> BotID = Arrays.asList("356191447348936710", "538675497022783488");
+    public static List<String> BotID = Arrays.asList(" ", " ");
 
     public static void main(String[] args) throws Exception {
         jdaBuilder = new JDABuilder(AccountType.BOT);
-        jdaBuilder.setToken("NTA4Mzg5MjkwMjc2MDI4NDI3.DyaCXg.pBw8lXCqKTRGJNvsxFcSAUkvHoc");
+        jdaBuilder.setToken(" ");
         jdaBuilder.setAutoReconnect(true);
-        jdaBuilder.setGame(Game.streaming("Elice Network", "https://www.twitch.tv/climpytv"));
-       // jdaBuilder.setGame(Game.playing("Elice geliştiriliyor.."));
+        jdaBuilder.setGame(Game.streaming("Elice Network", "https://www.twitch.tv/climpyx"));
         jdaBuilder.setStatus(OnlineStatus.DO_NOT_DISTURB);
 
         jdaBuilder.addEventListener(new MessageEvent());
